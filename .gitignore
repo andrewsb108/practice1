@@ -4,4 +4,4 @@ target/*
 *.iml
 *.war
 *.ear
-road-map.txt
+*txt
