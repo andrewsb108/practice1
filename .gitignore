@@ -4,4 +4,4 @@ target/*
 *.iml
 *.war
 *.ear
-*txt
+*.txt
