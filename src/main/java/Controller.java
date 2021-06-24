@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Controller {
 
     public static final String REGEX_FIRST_ELEMENT = ".*\\bHello\\b.*";
-    public static final String REGEX_SECOND_ELEMENT = ".*\\bworld\\b!*";
+    public static final String REGEX_SECOND_ELEMENT = ".*\\bworld!\\b*";
 
     private Model model;
     private View view;
